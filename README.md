@@ -89,7 +89,7 @@ jupyter notebook
 ```
 Otwórz notebook:
 ```text
-data_check(7).ipynb
+data_check_rep.ipynb
 ```
 Uruchom wszystkie komórki kolejno od początku do końca.
 Przebieg analizy
