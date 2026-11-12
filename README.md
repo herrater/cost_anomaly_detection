@@ -50,7 +50,7 @@ cost_anomaly_detection/
 │
 ├── README.md
 ├── requirements.txt
-├── data_check(7).ipynb
+├── data_check_rep.ipynb
 │
 ├── data_raw/
 │   └── SCMS_Delivery_History_Dataset_20150929.csv
